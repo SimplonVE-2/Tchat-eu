@@ -6,5 +6,5 @@ mettre les deux fichiers html dans un dossier templates.
 
 Sources principales : 
 
-- Miguel Grinberg
+- Miguel Grinberg (http://blog.miguelgrinberg.com/post/easy-websockets-with-flask-and-gevent)
 - MIT
