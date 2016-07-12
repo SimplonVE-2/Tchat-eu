@@ -1,8 +1,6 @@
 # Tchat-eu
 
-mettre les deux fichiers html dans un dossier templates.
-
-
+Mettre les deux fichiers html dans un dossier templates.
 
 Sources principales : 
 
